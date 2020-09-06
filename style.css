@@ -25,6 +25,7 @@ h1 {
 
 .countdown-contaier {
   display: flex;
+  flex-wrap :wrap;
   margin-top: 5rem;
   color: rgb(3, 1, 12);
 }
